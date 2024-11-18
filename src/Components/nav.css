@@ -1,0 +1,25 @@
+.nav {
+  background: transparent;
+  top: 0;
+  /* border: 1px solid rgb(77, 34, 235); */
+  padding: 15px;
+  width: auto;
+}
+
+.navbar {
+  float: right;
+  margin-right: 35px;
+}
+
+.navbar a {
+  font-size: 16px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  color: #f8fcfc;
+  font-weight: 600;
+  text-decoration: none;
+  margin-left: 40px;
+}
+
+.navbar a:hover {
+  text-decoration: underline;
+}
