@@ -54,7 +54,7 @@ const App = () => {
             title: 'My Portfolio',
             text: 'This self-practice project is created to build own portfolio using ReactJS.',
             button: 'GitHub Link',
-            link: ''
+            link: 'https://github.com/mshrest/portfolio/'
         },
         {
             title: 'AWS DevOps',
