@@ -176,7 +176,7 @@ const App = () => {
                 </div>
                 <div className="footer-container">
                     <footer className="footer-text">
-                        &copy; 2024 Mala's Portfolio. All rights reserved.
+                        &copy; {new Date().getFullYear()} Mala's Portfolio. All rights reserved.
                     </footer>
                 </div>
             </body>
